@@ -1,0 +1,56 @@
+﻿body {
+}
+
+/*--------------------------design------------------*/
+#design {
+    height: 1300px;
+    width: 1350px;
+}
+/*------------------------banner-------------------*/
+#banner {
+    height: 250px;
+    width: 1350px;
+    /*background-color:brown;*/
+}
+
+.logo-image {
+    height: 250px;
+    width: 300px;
+}
+
+.wrapper-image {
+    height: 250px;
+    width: 700px;
+}
+
+.login-image {
+    height: 250px;
+    width: 350px;
+}
+/*-----------------------slider--------------------*/
+#slider {
+    height:250px;
+    width:1350px;
+    margin-left:200px;
+    /*background-color:yellow;*/
+}
+/*-----------------------login---------------------*/
+#login {
+    height: 750px;
+    width: 1350px;
+    background-color:aliceblue;
+    
+}
+/*-------------------------footer--------------------*/
+#footer {
+    width: 1350px;
+    height: 50px;
+    background-color: lightsteelblue;
+}
+
+/*------------------------Register--------------------*/
+#Register {
+    height: 750px;
+    width: 1350px;
+    background-color: aliceblue;
+}
