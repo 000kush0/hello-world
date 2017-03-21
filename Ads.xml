@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>~/Images/flipkart-tvc-img.jpg</ImageUrl>
+    <NavigateUrl>https://www.flipkart.com</NavigateUrl>
+    <AlternateText>Please Visit https.www.flipkart.com</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Shopping</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>~/Images/untitled36.jpg</ImageUrl>
+    <NavigateUrl>https://www.snapdeal.com</NavigateUrl>
+    <AlternateText>Please Visit https://www.snapdeal.com</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Shopping</Keyword>
+  </Ad>
+</Advertisements>
